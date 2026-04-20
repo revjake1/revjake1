@@ -1,33 +1,35 @@
-# Hey, I'm Jake
+# Hey, I'm Jake.
 
-Video producer. High school journalism teacher. Occasional keyboard player at events you've probably driven past.
+I've got a music degree, a Blackmagic 6K, and a classroom full of teenagers who think DaVinci Resolve is a video game. I make videos for a living, I teach journalism and A/V at a high school in Statesboro, GA, and somewhere in between I started building the tools I couldn't find anywhere else.
 
-I build tools when the thing I need doesn't exist yet — or when a spreadsheet is doing a job it shouldn't have to.
+Most of what's in here started because a spreadsheet was doing a job it shouldn't have had to.
 
-## What I make
+## What I've built
 
-**Trivia Display Magic** — A live bar-trivia display system I built because the iPad-plus-projector-cable setup was embarrassing. TypeScript, runs in a browser, handles questions, categories, and scoring in real time.
+**Trivia Display Magic** — I host bar trivia about 20 nights a month. The iPad-plus-projector-cable setup was, to put it charitably, embarrassing. So I built a browser-based display system in TypeScript that handles questions, categories, and scoring in real time. Works great. Still embarrassing that I needed it.
 
-**Dueling Piano App** — Booking and request management for dueling piano shows. Live in production.
+**Dueling Piano App** — Request management for dueling piano shows. My partner and I were drowning in paper request slips. Now we're not.
 
-**Open Mic Manager** — Sign-up list, timer, rotation tracker. Built it for a venue that was running open mics off a legal pad.
+**Open Mic Manager** — Sign-up list, timer, rotation tracker. Built after watching a venue try to run an open mic off a legal pad for the third time in a row.
 
-**AI Seating Chart** — Built for my classroom. Teachers spend an absurd amount of time on seating arrangements. Now I don't.
+**AI Seating Chart** — Teachers spend an unreasonable amount of time rearranging desks. I built this for my classroom. Took about an afternoon, and I've used it every semester since.
 
-**Trivia Video Generator** — Turns question sets into fully produced video rounds. Less editing, more hosting.
+**Trivia Video Generator** — Takes a question set and spits out a fully produced video round. Less editing, more hosting.
 
-**jakehallman.com AI Agent** — A Claude-powered agent on my personal site that knows my work and can answer questions about it.
+**jakehallman.com AI Agent** — A Claude-powered thing on my personal site. It knows my work and can answer questions about it, which is either clever or deeply weird depending on how you look at it.
 
 ## How I work
 
-I'm not a software engineer by training — I have a music degree and spent 20 years in broadcast production before I started building things. I use AI the way I'd use a skilled crew member: delegate clearly, review the output, own the result.
+I'm not a software engineer. I've got a music degree, I spent two decades in front of and behind a camera, and I only started writing real code when AI made it possible to do it badly enough to still be useful.
 
-Most of what I build is for real use by real people. If it's in here, someone's using it.
+I use it like I'd use any assistant who's fast but occasionally makes stuff up. Clear assignments, close review, and I put my name on what ships.
 
-## Day job(s)
+If something I built is in here, it's probably running somewhere tonight.
+
+## The day jobs
 
 - **Stouthouse Media** — video production, broadcast direction, long-form documentary work
-- **Evans County Schools** — journalism, A/V production, chorus (yes, all three)
+- **Evans County Schools** — journalism, A/V production, and chorus (yes, all three)
 
 ## Find me
 
