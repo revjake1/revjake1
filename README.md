@@ -3,7 +3,7 @@
 
 
 
-I've got a music degree, a Blackmagic 6K, and a classroom full of teenagers who think DaVinci Resolve is a video game. I make videos for a living, I teach journalism and A/V at a high school in Statesboro, GA, and somewhere in between I started building the tools I couldn't find anywhere else.
+I've got a music degree, a Blackmagic 6K, and five years of teaching teenagers who thought DaVinci Resolve was a video game. I shoot and edit video for a living in Statesboro, GA, I handle marketing for a new industrial training center at Ogeechee Technical College, and somewhere in between I started building the tools I couldn't find anywhere else.
 
 
 
@@ -14,6 +14,11 @@ Most of what's in here started because a spreadsheet was doing a job it shouldn'
 
 
 ## What I've built
+
+
+
+
+**[Lesson Plan Magic](https://github.com/revjake1/lesson-plan-magic)** — A public Claude Code and Cowork plugin that writes lesson plans in a teacher's own district template from their standards and school calendar, and scans for student data before it saves anything. 405 tests, CI, tagged releases.
 
 
 
@@ -33,17 +38,12 @@ Most of what's in here started because a spreadsheet was doing a job it shouldn'
 
 
 
-**AI Seating Chart** — Teachers spend an unreasonable amount of time rearranging desks. I built this for my classroom. Took about an afternoon, and I've used it every semester since.
+**AI Seating Chart** — Teachers spend an unreasonable amount of time rearranging desks. I built this for my classroom. Took about an afternoon, and I used it every semester after.
 
 
 
 
 **Trivia Video Generator** — Takes a question set and spits out a fully produced video round. Less editing, more hosting.
-
-
-
-
-**jakehallman.com AI Agent** — A Claude-powered thing on my personal site. It knows my work and can answer questions about it, which is either clever or deeply weird depending on how you look at it.
 
 
 
@@ -73,8 +73,8 @@ If something I built is in here, it's probably running somewhere tonight.
 
 
 
-- **Stouthouse Media** — video production, broadcast direction, broadcast TV work
-- **Evans County Schools** — journalism, A/V production, and chorus (yes, all three)
+- **Where the Food Comes From (RFD-TV)** — Creative Director and primary editor, through Stouthouse Media
+- **Ogeechee Technical College** — Marketing Specialist for the Georgia Training Center for Industrial Operations
 
 
 
